@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaOnline", "TiendaOnlin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTiendaOnline", "WebTiendaOnline\WebTiendaOnline.csproj", "{C08B3F1F-9A49-416C-80C9-B227BE96651E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{A2DD4F48-313C-47DA-8E75-72860F6B8826}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C08B3F1F-9A49-416C-80C9-B227BE96651E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C08B3F1F-9A49-416C-80C9-B227BE96651E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C08B3F1F-9A49-416C-80C9-B227BE96651E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DD4F48-313C-47DA-8E75-72860F6B8826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DD4F48-313C-47DA-8E75-72860F6B8826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DD4F48-313C-47DA-8E75-72860F6B8826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DD4F48-313C-47DA-8E75-72860F6B8826}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
